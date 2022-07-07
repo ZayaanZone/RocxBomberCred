@@ -10,4 +10,4 @@
 
 💣 Limit Set to 1000
 
-🤚 Large Amount Can Crash App
+🤚 Large Amount Can Crash App 💥
